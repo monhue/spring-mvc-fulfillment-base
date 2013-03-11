@@ -9,7 +9,7 @@ import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
 import org.springframework.core.style.ToStringCreator;
-
+//test
 @Entity
 @Table(name="ORDERS")
 public class Order {
